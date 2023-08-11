@@ -1,1 +1,1 @@
-# eample-resume
+# example-resume
